@@ -1,2 +1,2 @@
 # fileyan-issues
-Issue Tracker for Fileyan
+[Issue Tracker](https://github.com/mgenware/fileyan-issues/issues) for Fileyan
