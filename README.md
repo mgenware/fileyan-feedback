@@ -1,5 +1,5 @@
 # Fileyan Feedback
-Issue Tracker for [Fileyan](https://github.com/mgenware/fileyan-releases).
+Issue Tracker for [Fileyan](https://mgenware.com/en/fileyan/).
 
 **[Click here to create a new issue](https://github.com/mgenware/fileyan-feedback/issues/new)**
 
